@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovogeutu.github.io/DMT/sitemap_index.txt
+Sitemap: https://ovogeutu.github.io/SxM/sitemap_index.txt
+Sitemap: https://ovogeutu.github.io/UQu/sitemap_index.txt
+Sitemap: https://ovogeutu.github.io/cEp/sitemap_index.txt
